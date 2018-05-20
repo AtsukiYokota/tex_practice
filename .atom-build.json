@@ -1,0 +1,4 @@
+{
+    "cmd": "latexmk -bibtex {FILE_ACTIVE}",
+    "cwd": "{FILE_ACTIVE_PATH}"
+}
